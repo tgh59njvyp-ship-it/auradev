@@ -1,0 +1,6 @@
+{
+  "name": "AURA DEV",
+  "description": "Bring Your Own Key & Model AI Development Workspace with full provider adapters, project generator, code editor, and agents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
